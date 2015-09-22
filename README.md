@@ -5,7 +5,7 @@ Azure SQL Database WingTipTickets demo and hands on lab These files comprise a h
 Steps
 +++++
 1. Ensure that you have a valid/usable Azure subscription.
-2. Download the .zip folder on your local desktop.
+2. Download all the files from GitHub "Download.zip" on your local desktop.
 2. Start with the "Azure SQL Database Configuration Guide" and set the environment up using powershell scripts (L300_Scripts.zip). Shouldn't take more than 30 to 40 minutes
 3. Once that's done, please start off with the L300 Scenarios- HOL.
 
